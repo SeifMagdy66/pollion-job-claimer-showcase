@@ -44,6 +44,8 @@ The implementation uses **Node.js, Playwright, IMAP and a private web dashboard*
 
 ## Validation and limits
 
+The isolated release snapshot passed **73 unit/API checks and 103 browser checks** on **24 November 2026**. The runtime dependency audit reported **zero known vulnerabilities** at that time. These results describe the tested snapshot, not a live acceptance success rate.
+
 Synthetic browser scenarios exercise agreement checkboxes, confirmation dialogs, login redirects, interrupted submissions, expired offers, duplicate delivery and ambiguous controls. Tests are isolated from production accounts and do not accept real jobs.
 
 Portal layouts, authentication and offer availability can change. Simulations do not establish a live acceptance rate, guarantee that an offer will be won, or attribute an existing assignment to the bot. An unresolved result remains unverified until supported by evidence.
