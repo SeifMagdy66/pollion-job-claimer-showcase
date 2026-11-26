@@ -10,7 +10,11 @@ Pollion connects an authorized mailbox to guarded portal workflows, attempts to 
 
 This repository is a **public project overview**. The implementation is maintained in a separate private repository. No runnable agent code, client data, credentials, portal sessions or production recordings are published here.
 
-![Private dashboard with synthetic demonstration data](docs/images/dashboard-demo.png)
+## Agent Console · version 12
+
+The overview shows how many offers arrived today and whether the agent verified a claim, found an existing assignment or flagged an offer for review. Each of the four cards has its own icon on desktop and mobile. Operators can open individual offers and review attempt recordings.
+
+![Agent Console overview showing four outcome cards above the latest synthetic offers](docs/images/agent-console-v12.png)
 
 *All offers in this image are synthetic. It demonstrates the interface, not live assignments or acceptance performance.*
 
