@@ -14,7 +14,7 @@ This repository is a **public project overview**. The implementation is maintain
 
 The overview shows how many offers arrived today and whether the agent verified a claim, found an existing assignment or flagged an offer for review. Each of the four cards has its own icon on desktop and mobile. Operators can open individual offers and review attempt recordings.
 
-![Demo dashboard showing three verified bot claims, two manual assignments, one offer needing review and four Watch video buttons in the Evidence column](docs/images/agent-console-v12.png)
+![Demo dashboard showing 20 verified bot claims, 12 manual assignments, one offer needing review and Watch video buttons in the Evidence column](docs/images/agent-console-v12.png)
 
 *This screenshot uses fictional offers. “Watch video” shows where operators can open an attempt recording in the private console.*
 
